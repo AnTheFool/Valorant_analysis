@@ -28,8 +28,7 @@ This project analyzes Valorant gameplay data to provide players with actionable 
 - Automate data refresh for real-time analysis.
 
 ## Author
-[Your Name]  
-[Your GitHub Profile]  
+An Doan
 
 ---
 
